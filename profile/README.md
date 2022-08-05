@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Buffer overrun! Train overrun!
+Buffer overrun!
 
 ## Definition
 
@@ -18,7 +18,7 @@ buffer[7] = 0x00; // -> Buffer overrun
 
 ## Join Us
 
-You just have to create a discussion, and we will test you!
+You just have to click [README.md](https://github.com/Over-Run/.github/tree/main/profile/README.md) on left-top and create a discussion!
 
 <!--
 
