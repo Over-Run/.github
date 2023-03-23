@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to Overrun Organization! We are the developers from the world who creates some interesting projects.
+Welcome to Overrun Organization! We are the developers from the world who create some interesting projects.
 
 ## Our Projects
 
