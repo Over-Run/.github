@@ -14,8 +14,7 @@ These projects are active that they will get maintenance:
 
 These projects are inactive, they will only get updates when security issue detected.
 
-- [swgl-core](https://github.com/Over-Run/swgl-core)
-- [GLCs](https://github.com/Over-Run/GLCs)
+- N/A
 
 ### Obsolete Projects
 
@@ -23,6 +22,8 @@ These projects are obsolete. They will **NEVER** get further updates or maintena
 
 - [GLUtils](https://github.com/Over-Run/GLUtils)
 - [SquidCraft](https://github.com/Over-Run/SquidCraft) - moved to [XenFork Union](https://github.com/XenFork/SquidCraft)
+- [swgl-core](https://github.com/Over-Run/swgl-core)
+- [GLCs](https://github.com/Over-Run/GLCs)
 
 ## Join Us
 
