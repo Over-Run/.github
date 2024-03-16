@@ -6,7 +6,7 @@ Welcome to Overrun Organization! We are the developers from the world who create
 
 ### Active Projects
 
-These projects are active that gets maintenance:
+These projects are active that get maintenance:
 
 - [OverrunGL](https://github.com/Over-Run/overrungl)
 - [Marshal](https://github.com/Over-Run/marshal)
