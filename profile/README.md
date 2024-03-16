@@ -6,28 +6,14 @@ Welcome to Overrun Organization! We are the developers from the world who create
 
 ### Active Projects
 
-These projects are active that they will get maintenance:
+These projects are active that gets maintenance:
 
 - [OverrunGL](https://github.com/Over-Run/overrungl)
-
-### Inactive Projects
-
-These projects are inactive, they will only get updates when security issue detected.
-
-- N/A
-
-### Obsolete Projects
-
-These projects are obsolete. They will **NEVER** get further updates or maintenance.
-
-- [GLUtils](https://github.com/Over-Run/GLUtils)
-- [SquidCraft](https://github.com/Over-Run/SquidCraft) - moved to [XenFork Union](https://github.com/XenFork/SquidCraft)
-- [swgl-core](https://github.com/Over-Run/swgl-core)
-- [GLCs](https://github.com/Over-Run/GLCs)
+- [Marshal](https://github.com/Over-Run/marshal)
 
 ## Join Us
 
-You just have to click [README.md](https://github.com/Over-Run/.github/tree/main/profile/README.md) on left-top and create a discussion!
+You just have to click [README.md](https://github.com/Over-Run/.github/tree/main/profile/README.md) on the left-top and create a discussion.
 
 You will have to learn at least one **programming language** that can be used in **production**.
 
