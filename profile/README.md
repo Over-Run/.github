@@ -9,13 +9,6 @@ Welcome to Overrun Organization! We are the developers from the world who create
 These projects are active that get maintenance:
 
 - [OverrunGL](https://github.com/Over-Run/overrungl)
-- [Marshal](https://github.com/Over-Run/marshal)
-
-## Join Us
-
-You just have to click [README.md](https://github.com/Over-Run/.github/tree/main/profile/README.md) on the left-top and create a discussion.
-
-You will have to learn at least one **programming language** that can be used in **production**.
 
 <!--
 
